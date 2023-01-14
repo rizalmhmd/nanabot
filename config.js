@@ -27,35 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/riellxd_4'
+global.sig = 'https://instagram.com/zallzall02'
 global.syt = 'https://youtube.com/@riellbotzoffc2764'
-global.sgh = 'gada'
+global.sgh = 'https://github.com/rizalmhmd'
 global.sgc = 'https://chat.whatsapp.com/KHcKZ71147iH8QHfoHQGmx'
-global.swa = 'wa.me/6281255642719'
+global.swa = 'wa.me/6281333154367'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '081352724422'
-global.povo = '-'
+global.pdana = '081333154367'
+global.povo = '081333154367'
 global.pgopay = '-'
-global.ppulsa = '6281255642719'
-global.ppulsa2 = '-'
-global.psaweria = 'saweria.co/RiellXD'
+global.ppulsa = '081333154367'
+global.ppulsa2 = '081327238906'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283813417529'
-global.nomorown = '6281255642719'
-global.namebot = 'NanaBotz'
-global.nameown = 'RiellXD'
+global.nomorbot = '6281333154367'
+global.nomorown = '6281333154367'
+global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.nameown = '𝚉𝚊𝚕𝚕'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281255642719'],
-  ['6281255642719'],
-  ['62895326032289'],
-  ['6281255642719', '𝐑𝐢𝐞𝐥𝐥𝐗𝐃 ☠︎︎', true]
+  ['6281333154367', '𝚉𝚊𝚕𝚕', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,14 +102,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = '𝐍𝐚𝐧𝐚𝐁𝐨𝐭𝐳 𝐍𝐞𝐰𝐄𝐫𝐚🐻' //Main Watermark
-global.wm2 = '𝐍𝐚𝐧𝐚𝐁𝐨𝐭𝐳 𝐍𝐞𝐰 𝐄𝐫𝐚'
-global.wm3 = '𝐍𝐚𝐧𝐚𝐁𝐨𝐭𝐳 | 𝐁𝐲 𝐑𝐢𝐞𝐥𝐥:3'
+global.wm = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕' //Main Watermark
+global.wm2 = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.wm3 = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 | 𝐁𝐲 𝚉𝚊𝚕𝚕'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `𝐍𝐚𝐧𝐚𝐁𝐨𝐭𝐳 𝐍𝐞𝐰 𝐄𝐫𝐚 | ʙʏ ${global.nameown}`
-global.author = '𝐍𝐚𝐧𝐚𝐁𝐨𝐭𝐳 𝐍𝐞𝐰 𝐄𝐫𝐚' 
-global.packname = '2023'
+global.titlebot = `𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 | ʙʏ ${global.nameown}`
+global.author = '𝚉𝚊𝚕𝚕' 
+global.packname = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'july 07 2006'
 
@@ -131,11 +128,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya 𝐍𝐚𝐧𝐚𝐛𝐨𝐭𝐳 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh RɪᴇʟʟXᴅ Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'RɪᴇʟʟXᴅ'
-global.umurowner = '16'
-global.asalowner = 'kaltim, Tenggarong'
-global.nomorowner = 'wa.me/6281255642719'
-global.pacarowner = 'NanaImut:3'
+global.nameowner = '𝚉𝚊𝚕𝚕'
+global.umurowner = '18'
+global.asalowner = 'Jateng'
+global.nomorowner = 'wa.me/6281333154367'
+global.pacarowner = 'Hamba Allah'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜 𝙏𝙤𝙙...```'
@@ -383,8 +380,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = '𝐍𝐚𝐧𝐚𝐛𝐨𝐭𝐳 𝐁𝐲'
-global.stickauth = `𝐑𝐢𝐞𝐥𝐥𝐗𝐃`
+global.stickpack = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 𝐁𝐲'
+global.stickauth = `𝚉𝚊𝚕𝚕`
 
 global.multiplier = 38 // The higher, The harder levelup
 
